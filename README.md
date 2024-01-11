@@ -151,11 +151,13 @@ Sou **Designer de Hipermídia** e **Desenvolvedor Web** (front/back) — *Microe
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vladimirpezzole&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<!-- 
 ## Principais Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladimirpezzole&repo=Gerenciador-de-VMs-Basica-para-VirtualBox&theme=dracula)](https://github.com/vladimirpezzole/Gerenciador-de-VMs-Basica-para-VirtualBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladimirpezzole&repo=Lab-Haskell&theme=dracula)](https://github.com/vladimirpezzole/Lab-Haskell)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladimirpezzole&repo=Docker-PHP-PDO-MySQL&theme=dracula)](https://github.com/vladimirpezzole/Docker-PHP-PDO-MySQL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladimirpezzole&repo=Docker-Dev-AMP-and-SSL&theme=dracula)](https://github.com/vladimirpezzole/Docker-Dev-AMP-and-SSL)
+-->
 
 <hr><br>
 
