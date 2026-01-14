@@ -13,13 +13,17 @@ Sou **Designer de Hipermídia** e **Desenvolvedor Web** (front/back) — *Microe
 
 ### 📝 Sobre mim
 
-- Durante uma jornada de um pouco mais de 28 anos de experiência em algumas empresas, atuando como **designer gráfico**, explorei e adquiri um sólido conhecimento em diversas áreas de criação e editoração gráfica/digital.
+- **Designer Gráfico** há 29 anos, com um longo trecho em criação e editoração digital. Agora, expandindo meus horizontes com a programação.
 
-- Nos últimos anos, busquei formação em **Análise e Desenvolvimento de Sistemas** para incorporar habilidades de programação a consolidada habilidade como designer.
+- Me formei em *Análise e Desenvolvimento de Sistemas* para unir a expertise do **design** com as possibilidades do **código**.
 
-- As *características específicas* do **Design de Hipermídia** em combinação com a **programação web**, abrem um vasto leque de possibilidades a serem exploradas.
+- Apaixonado por **Design de Hipermídia**, acredito que a soma da *estética* com a *lógica* permite criar soluções muito mais completas e interessantes.
+  
+- Meu propósito hoje é exatamente esse ponto de encontro: transformar anos de experiência visual em interfaces inteligentes e funcionais sem rodeios, prezando a praticidade.
 
-- É nessa convergência que concentro meus estudos e projetos. Buscando criar soluções inovadoras que integrem o melhor do **design** e da **tecnologia**.
+[!NOTE]
+*PS: Por aqui as coisas estão um pouco "bagunçadas" . Estou atualizando meus projetos e removendo o que ficou antigo e sem relevância.*
+*Atualmente, meu foco total é unir o Design de Hipermídia (usando softwares como Krita, Blender, KDenlive/DaVinci) com o ecossistema de IAs (ComfyUI, N8N, entre outros) e desenvolver soluções práticas (com linguagens como Python, PHP, Rust e Front)*
 
 <hr>
 
@@ -43,7 +47,6 @@ Sou **Designer de Hipermídia** e **Desenvolvedor Web** (front/back) — *Microe
 
 - #### Moderado:
 ![Blender 3D](https://img.shields.io/badge/-Blender-1f2936?style=for-the-badge&logo=Blender&logoColor=y&labelColor=0e1928) 
-![Godot%20Engine 3D](https://img.shields.io/badge/-Godot-1f2936?style=for-the-badge&logo=Godot%20Engine&logoColor=y&labelColor=0e1928) 
 ![Krita](https://img.shields.io/badge/-Krita-1f2936?style=for-the-badge&logo=Krita&logoColor=y&labelColor=0e1928)
 
 - #### Básico:
