@@ -17,13 +17,13 @@ Sou **Designer de Hipermídia** e **Desenvolvedor Web** (front/back) — *Microe
 
 - Me formei em *Análise e Desenvolvimento de Sistemas* para unir a expertise do **design** com as possibilidades do **código**.
 
-- Apaixonado por **Design de Hipermídia**, acredito que a soma da *estética* com a *lógica* permite criar soluções muito mais completas e interessantes.
+- Apaixonado por **Design de Hipermídia**, meu foco hoje é o ponto de encontro entre estética, IA e tecnologia: transformar anos de experiência visual em interfaces inteligentes, funcionais e interativas.
   
-- Meu propósito hoje é exatamente esse ponto de encontro: transformar anos de experiência visual em interfaces inteligentes e funcionais sem rodeios, prezando a praticidade.
+- Além disso, busco integrar conceitos de **desenvolvimento de jogos** aos meus projetos, tornando a experiência do usuário ou visitante muito mais envolvente e interessante.
 
 [!NOTE]
 *PS: Por aqui as coisas estão um pouco "bagunçadas" . Estou atualizando meus projetos e removendo o que ficou antigo e sem relevância.*
-*Atualmente, meu foco total é unir o Design de Hipermídia (usando softwares como Krita, Blender, KDenlive/DaVinci) com o ecossistema de IAs (ComfyUI, N8N, entre outros) e desenvolver soluções práticas (com linguagens como Python, PHP, Rust e Front)*
+***No radar atual:** Estudando para 'unir' **Design de Hipermídia** (Krita, Blender, DaVinci) com o **ecossistema de IAs** (ComfyUI, N8N) e desenvolvimento prático (Python, PHP, Rust e Front-end) e desenvolvimento de jogos.*
 
 <hr>
 
@@ -111,7 +111,7 @@ Sou **Designer de Hipermídia** e **Desenvolvedor Web** (front/back) — *Microe
 
 
 
-- <h4>💬 Idiomas </h4>
+- <h4>💬 Idiomas <i>(instrumental)</i></h4>
 
 &nbsp;&nbsp;![English](https://img.shields.io/badge/-🇺🇸&nbsp;English-1f2936?style=for-the-badge&logo=English&logoColor=y&labelColor=0e1928)
 &nbsp;&nbsp;![Русский](https://img.shields.io/badge/-🇷🇺&nbsp;Русский-1f2936?style=for-the-badge&logo=Русский&logoColor=y&labelColor=0e1928)
